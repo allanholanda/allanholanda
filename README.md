@@ -1,6 +1,6 @@
 ### Opa, muito prazer, eu sou o Allan!
 ### Apenas mais um amante de tecnologia 😄
-
+<br>
 <div align="center">
   <a href="https://github.com/allanholanda">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=allanholanda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
